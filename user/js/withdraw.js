@@ -3,7 +3,7 @@ const username = localStorage.getItem("gtraders_id");
 //const btc = localStorage.getItem("btc")
 //const eth = localStorage.getItem("eth")
 
-const loginEndpoint = 'http://127.0.0.1:8000';
+const loginEndpoint = 'https://global-traders.onrender.com';
 
 
 
